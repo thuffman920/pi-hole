@@ -1,0 +1,4 @@
+## OneLaunch installer - takes control of device by controlling news, weather, etc. ##
+onelaunch.com 
+onenews.com
+
