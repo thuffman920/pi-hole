@@ -3,7 +3,6 @@
 ||duapps.com^ # DU Ad Platform #
 ||dpmserv.com^
 ||360in.com^ # Chinese technology company #
-||soullinezip.live^
 ||upgradeinfo24.com^
 ||sentry.io^
 ||fluidplayer.com^
