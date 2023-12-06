@@ -11,10 +11,13 @@ iad.g.163.com
 youtube.com/ptracking/
 youtube.com/youtubei/v1/
 youtube.com/api/stats/
+rr3---sn-5ualdns7.googlevideo.com
+rr3---sn-5ualdnss.googlevideo.com
 
 # Google Ads
 google.com/pagead/
 yt3.ggpht.com
+ci5.googleusercontent.com
 
 
 # Google Play Store
