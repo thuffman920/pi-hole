@@ -47,6 +47,9 @@ youtube.com/youtubei/v1/
 youtube.com/api/stats/
 
 # Google Ads
+||ads.google.com^
+||adservice.google.com^
+||static.googleadsserving.cn^
 google.com/pagead/
 yt3.ggpht.com
 ci5.googleusercontent.com
