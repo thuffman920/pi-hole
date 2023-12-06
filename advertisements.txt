@@ -1,5 +1,5 @@
 # Whole domains
-||doubleclick.net
+(\.|^)doubleclick.net
 
 # 163.com
 analytics.163.com
