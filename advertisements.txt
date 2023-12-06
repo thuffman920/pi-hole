@@ -9,14 +9,10 @@
 ||duapps.com^ # DU Ad Platform #
 ||flashtalking.com^ 
 ||fluidplayer.com^ # Fluid Player - an HTML5 video player #
-||forlumineoner.com^
-||fvcwqkkqmuv.com^ 
 ||google-analytics.com^ # Google Analytics #
 ||mopinion.com^ # Mopinion - A Feedback servie for websites #
 ||pncloudfl.com^ # ClickAdu Ad Service #
 ||sentry.io^ # Sentry - performance monitoring and error tracking service #
-||upgradeinfo24.com^ # An Ad Pop-up #
-||ybs2ffs7v.com^
 
 # 163.com
 analytics.163.com
