@@ -57,5 +57,9 @@ ci5.googleusercontent.com
 # Cloudfront
 
 
+# Facebook Ads
+an.facebook.com
+pixel.facebook.com
+
 # Google Play Store
 play.google.com
