@@ -1,5 +1,5 @@
 # Whole domains
-doubleclick.net
+||doubleclick.net
 
 # 163.com
 analytics.163.com
@@ -11,6 +11,7 @@ iad.g.163.com
 youtube.com/ptracking/
 youtube.com/youtubei/v1/
 youtube.com/api/stats/
+
 # Google Ads
 google.com/pagead/
 yt3.ggpht.com
