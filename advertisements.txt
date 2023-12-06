@@ -1,7 +1,9 @@
 # Whole domains
 ||247realmedia.com^ # 24/7 Media - marketing company #
 ||360in.com^ # Chinese technology company #
+||3gl.net^
 ||4dsply.com^ # AdSupply, Inc. tracker #
+||51ginkgo.com^
 ||adsco.re^ # Tracker for Adscore #
 ||bncloudfl.com^ # Clickadu Ad Service #
 ||doubleclick.net^ # DoubleClick, Inc., and Ad company that was acquired by Google in 2008 #
