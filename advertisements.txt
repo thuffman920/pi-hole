@@ -12,9 +12,13 @@
 ||flashtalking.com^ 
 ||fluidplayer.com^ # Fluid Player - an HTML5 video player #
 ||google-analytics.com^ # Google Analytics #
-||mopinion.com^ # Mopinion - A Feedback servie for websites #
+||mopinion.com^ # Mopinion - A Feedback service for websites #
 ||pncloudfl.com^ # ClickAdu Ad Service #
 ||sentry.io^ # Sentry - performance monitoring and error tracking service #
+||mediago.io^ # MediaGo Ad Platform #
+||33across.com^ # 33Across #
+||rlcdn.com^ # Registrar - Cloudflare, Inc. #
+||rubiconproject.com^ # Magnite, Inc. - merger of Rubicon Project and Telaria #
 
 # 163.com
 analytics.163.com
