@@ -3,6 +3,18 @@
 ||duapps.com^ # DU Ad Platform #
 ||dpmserv.com^
 ||360in.com^ # Chinese technology company #
+||soullinezip.live^
+||upgradeinfo24.com^
+||sentry.io^
+||fluidplayer.com^
+||mopinion.com^
+||forlumineoner.com^
+||adsco.re^
+||ybs2ffs7v.com^
+||fvcwqkkqmuv.com^
+||bncloudfl.com^
+||pncloudfl.com^
+
 
 # 163.com
 analytics.163.com
@@ -38,6 +50,8 @@ youtube.com/api/stats/
 google.com/pagead/
 yt3.ggpht.com
 ci5.googleusercontent.com
+
+# Cloudfront
 
 
 # Google Play Store
