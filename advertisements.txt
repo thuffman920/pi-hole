@@ -1,20 +1,22 @@
 # Whole domains
+||247realmedia.com^ # 24/7 Media - marketing company #
 ||360in.com^ # Chinese technology company #
-||4dsply.com^
-||adsco.re^
-||bncloudfl.com^
+||4dsply.com^ # AdSupply, Inc. tracker #
+||adsco.re^ # Tracker for Adscore #
+||bncloudfl.com^ " Clickadu Ad Service #
 ||doubleclick.net^ # DoubleClick, Inc., and Ad company that was acquired by Google in 2008 #
-||dpmserv.com^
+||dpmserv.com^ 
 ||duapps.com^ # DU Ad Platform #
-||fluidplayer.com^
+||flashtalking.com^ 
+||fluidplayer.com^ # Fluid Player - an HTML5 video player #
 ||forlumineoner.com^
-||fvcwqkkqmuv.com^
-||mopinion.com^
-||pncloudfl.com^
-||sentry.io^
-||upgradeinfo24.com^
-||ybs2ffs7v.com^
+||fvcwqkkqmuv.com^ 
 ||google-analytics.com^ # Google Analytics #
+||mopinion.com^ # Mopinion - A Feedback servie for websites #
+||pncloudfl.com^ # ClickAdu Ad Service #
+||sentry.io^ # Sentry - performance monitoring and error tracking service #
+||upgradeinfo24.com^ # An Ad Pop-up #
+||ybs2ffs7v.com^
 
 # 163.com
 analytics.163.com
