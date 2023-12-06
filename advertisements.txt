@@ -1,14 +1,33 @@
 # Whole domains
-||doubleclick.net^
+||doubleclick.net^ # DoubleClick, Inc., and Ad company that was acquired by Google in 2008 #
+||duapps.com^ # DU Ad Platform #
+||dpmserv.com^
+||360in.com^ # Chinese technology company #
 
 # 163.com
 analytics.163.com
 crash.163.com
 iad.g.163.com
 
-
 # Youtube Ads
 ads.youtube.com
+r1---sn-8p8v-nn5e.googlevideo.com
+r1---sn-8p8v-nn5l.googlevideo.com
+r1---sn-gpv7dne6.googlevideo.com
+r1---sn-gpv7dned.googlevideo.com
+r2---sn-8p8v-nn5e.googlevideo.com
+r2---sn-8p8v-nn5l.googlevideo.com
+r2---sn-b8u-8pml.googlevideo.com
+r2---sn-b8u-nn5e.googlevideo.com
+r2---sn-gpv7dne6.googlevideo.com
+r3---sn-gpv7dned.googlevideo.com
+r4---sn-a5mlrn7y.googlevideo.com
+r4---sn-gpv7dn7k.googlevideo.com
+r4---sn-gpv7dne6.googlevideo.com
+r4---sn-gpv7dned.googlevideo.com
+r5---sn-gpv7dne6.googlevideo.com
+r5---sn-gpv7dned.googlevideo.com
+r5---sn-vgqskn76.googlevideo.com\
 rr3---sn-5ualdns7.googlevideo.com
 rr3---sn-5ualdnss.googlevideo.com
 youtube.com/ptracking/
