@@ -19,20 +19,7 @@
 ||33across.com^ # 33Across #
 ||rlcdn.com^ # Registrar - Cloudflare, Inc. #
 ||rubiconproject.com^ # Magnite, Inc. - merger of Rubicon Project and Telaria #
-||whchinagoogle.com^
-||doubleclickbygoogle.com^
-||fgoogle.com^
-||o2ogoogle.com^
-||whchinagoogle.com^
-||wwwbadgoogle.com^
-||www-bardgoogle.com^
-||google.com-firewall.online^
-||nexusonedegoogle.com^
-||o2ogoogle.com^
-||sheetsgoogle.com^
-||maps.google.com.43.4526.23.526262678.place.peppyinsta.com^
-||pachatgpt4google.com^
-||s1.dugoogle.com^
+||s1.dugoogle.com^ # TrustAsis Technologies, Inc. - Adservice #
 
 # 163.com
 analytics.163.com
