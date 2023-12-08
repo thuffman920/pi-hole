@@ -9,7 +9,7 @@ googgle.com
 
 # Google Bard #
 ||wwwbadgoogle.com^
-|| www-bardgoogle.com^
+||www-bardgoogle.com^
 
 # Google Products #
 ||fgoogle.com^
