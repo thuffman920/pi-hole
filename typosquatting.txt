@@ -1,4 +1,17 @@
 googgle.com
-ncedclouds.com
-ncedcloudstore.com
-myncedcloud.org
+
+# NC Ed Cloud Similar domains #
+||ncedclouds.com^
+||ncedcloudstore.com^
+||myncedcloud.org^
+
+# MSS Solutions #
+
+# Google Bard #
+||wwwbadgoogle.com^
+|| www-bardgoogle.com^
+
+# Google Products #
+||fgoogle.com^
+||google.com-firewall.online^
+||sheetsgoogle.com^
