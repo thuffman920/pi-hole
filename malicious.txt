@@ -1,6 +1,24 @@
 ||404mobi.com^
-||soullinezip.live^
-||upgradeinfo24.com^ # An Ad Pop-up #
-||ybs2ffs7v.com^
+||6google.com^
+||cdngoogle.com^
+||chat-gpt-for-google.com^ # Mimics ChatGPT #
+||chat-gpt-google.com^ # Mimics ChatGPT #
+||chatgpt-for-google.com^ # Mimics ChatGPT #
+||chatgpt4google.com^ # Mimics ChatGPT #
+||chatgptbutitlookslikegoogle.com^ # Mimics ChatGPT #
+||chatgptbygoogle.com^ # Mimics ChatGPT #
+||chatgptingoogle.com^ # Mimics ChatGPT #
+||chatgptvsgoogle.com^ # Mimics ChatGPT #
+||drive.google.com.it-barcelona.com^ # Mimics Google Drive #
+||facebook-google.com^ # Impersonates Facebook #
 ||forlumineoner.com^
 ||fvcwqkkqmuv.com^ 
+||peppyinsta.com^ # Suspposedly a domain for Peppy Insta made by SM Foods - VirusTotal has this marked as malicious #
+||nexusonedegoogle.com^
+||o2ogoogle.com^
+||pachatgpt4google.com^ # Mimics ChatGPT #
+||soullinezip.live^
+||upgradeinfo24.com^ # An Ad Pop-up #
+||whchinagoogle.com^
+||wwwbadgoogle.com^
+||ybs2ffs7v.com^
