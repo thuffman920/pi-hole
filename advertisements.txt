@@ -58,6 +58,33 @@ google.com/pagead/
 yt3.ggpht.com
 ci5.googleusercontent.com
 
+# Google web analytics - gvt1.com #
+r1---sn-5hne6nsk.gvt1.com
+r1---sn-5hnedn7l.gvt1.com
+r2---sn-5hne6nsr.gvt1.com
+r3---sn-5hne6nlr.gvt1.com
+r3---sn-5hnedn7e.gvt1.com
+r4---sn-5hne6nsz.gvt1.com
+r4---sn-5hnekn76.gvt1.com
+r5.sn-5hne6n7z.gvt1.com
+r5.sn-5hnednlr.gvt1.com
+r5---sn-5hnednlr.gvt1.com
+r5---sn-5hne6ns6.gvt1.com
+redirector.gvt1.com
+
+# Google web analytics - gvt2.com #
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+beacons5.gcp.gvt2.com
+e2c51.gcp.gvt2.com
+
+# Google web Analytics - gvt3.com #
+beacons5.gvt3.com
+beacons6.gvt3.com
+
 # Cloudfront
 
 
