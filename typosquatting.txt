@@ -4,6 +4,22 @@ googgle.com
 ||ncedclouds.com^
 ||ncedcloudstore.com^
 ||myncedcloud.org^
+||ncedclouds.org^
+||ncedccloud.org^
+||ncecloud.org^
+||ncedclod.org^
+||ncedloud.org^
+||ncedcoud.org^
+||ncdcloud.org^
+||nedcloud.org^
+||ncedclud.org^
+||ncescloud.org^
+||nce.dcloud.org^
+||ncedclo.ud.org^
+||ncedcloud.co^
+||ncdecloud.org^
+||www-ncedclouds.com^
+||ncedcloudd.com^
 
 # MSS Solutions #
 
@@ -15,3 +31,6 @@ googgle.com
 ||fgoogle.com^
 ||google.com-firewall.online^
 ||sheetsgoogle.com^
+
+# Buncombe County Schools #
+||buncombeschool.org^
