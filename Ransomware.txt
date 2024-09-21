@@ -1,0 +1,46 @@
+# Black Basta Ransomware - Known Domains #
+||artspathgroupe.net^
+||blocktoday.net^
+||buyblocknow.com^
+||investmentgblog.net^
+||investrealtydom.net^
+||kekeoamigo.com^
+||literoved.ru^
+||protectionek.com^
+||rasapool.net^
+||recentbee.net^
+||simorten.com^
+||specialdrills.com^
+||startupbusiness24.net^
+||trailshop.net^
+||webnubee.com^
+||winklen.ch^
+||xserver.jp^
+||your-server.de^
+
+# Black Basta Ransomware - Suspected Domains #
+||allcompanycenter.com^ 
+||businesforhome.com^
+||gartenlofti.com^
+||getfnewsolutions.com^
+||getfnewssolutions.com^
+||monitorsystem.net^
+||seohomee.com^
+||softradar.net^
+||taskthebox.net^
+||unougn.com^
+||wardeli.com^
+||withclier.com^
+
+# Lockbit 3.0 Ransomware Attack #
+||yejosowon.co^
+
+# Ransomhub Ransomware #
+||50barrels.com^
+||s3n.lol^
+||xui32.top^
+||ejhp16.shop^
+||2j.tel^
+||ayw31.shop^
+||gachi-lane.com^
+||devil-stars.com^
