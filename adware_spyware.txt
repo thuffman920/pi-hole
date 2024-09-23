@@ -1,4 +1,4 @@
-## OneLaunch installer - takes control of the device by controlling news, weather, etc. ##
+# OneLaunch installer - takes control of the device by controlling news, weather, etc. #
 ||onelaunch.com^ 
 ||onenews.com^
 ||45tu1c0.com^
@@ -24,7 +24,7 @@
 ||mywavehome.net^
 
 # Clear Browser - Another known Adware browser (also has ClearBar, which is a browser hijacker) #
-### This hasn't been fully vetted. These domains were pulled from a Reddit post (https://www.reddit.com/r/crowdstrike/comments/10vhmfg/clearexe_and_clearbrowserexe/) - use at your own risk ###
+# This hasn't been fully vetted. These domains were pulled from a Reddit post (https://www.reddit.com/r/crowdstrike/comments/10vhmfg/clearexe_and_clearbrowserexe/) - use at your own risk #
 ||placemytag.com^
 ||breakingnewstab.net^
 ||clearbar.app^
