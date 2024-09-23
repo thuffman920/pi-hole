@@ -40,12 +40,16 @@
 # Cuttly Service #
 ||cutt.ly^ # The official site and the shortened domain #
 
-# Service #
-||dub.sh^
+# Dub.co Service #
+||dub.co^ # The official site #
+||d.to^ # The shortened domain #
 
-# Service #
-||exitbar.io^
-||extbr.com^
+# Dub.sh Service #
+||dub.sh^ # The official site and the shortened domain #
+
+# Exitbar.io Service #
+||exitbar.io^ # The official site #
+||extbr.com^ # The shortened domain #
 
 # Service #
 ||fastforward.com^
@@ -53,14 +57,14 @@
 # GoLinks Service #
 ||golinks.io^ # This is the site. The shortened domain looks like "http://go/XXXXX" - these are hard to block. #
 
-# Service #
-||hurlurl.com^
+# Hurlurl Service #
+||hurlurl.com^ # The official site and the shortened domain #
 
-# Service #
-||is.gd^
+# is.gd Service #
+||is.gd^ # The official site and the shortened domain #
 
-# Service #
-||jellyurl.com^
+# Jelly URL Service #
+||jellyurl.com^ # The official site and the shortened domain #
 
 # Link2u Service #
 ||link2u.cc^ # The official site #
@@ -69,8 +73,8 @@
 # Service #
 ||linklyhq.com^
 
-# Service #
-||linktr.ee^
+# Linktree Service #
+||linktr.ee^ # The official site and the shortened domain #
 
 # Service #
 ||lnkiy.com^
@@ -79,8 +83,8 @@
 # Service #
 ||lnnkin.com^
 
-# Service #
-||maglit.me^
+# MagLit Service #
+||maglit.me^ # The official site and the shortened domain #
 
 # Service #
 ||manage.smarturl.it^
@@ -91,14 +95,18 @@
 # Service #
 ||marketingstack.io^
 
+# McAfee Corporation Service #
+||mcaf.ee^ # The shortened domain #
+
 # Service #
 ||musicjet.com^
 
 # Service #
 ||ouo.io^
 
-# Service #
-||ow.ly^
+# Hootsuite Service #
+||hootsuite.com^ # The official site; this site isn't limited to only a URL shortener - so be cautious when blocking this domain #
+||ow.ly^ # The shortened domain #
 
 # PicSee Service # 
 ||picsee.io^ # The official site #
@@ -121,8 +129,8 @@
 # Service #
 ||sbee.link^
 
-# Service #
-||short.io^
+# Short.io Service #
+||short.io^ # The official site and the shortened domain #
 
 # Service #
 ||shorturl.ac^
@@ -131,9 +139,16 @@
 # Service #
 ||sniply.io^
 
+# Social Bee Service #
+||socialbee.com^ # The official site #
+||sbee.link^ # The shortened domain #
+
 # Service #
 ||socx.ly^
 ||socxo.com^
+
+# X (formally Twitter) Service # 
+||t.co^ # The shortened domain #
 
 # Service #
 ||t.ly^
@@ -169,14 +184,14 @@
 # Service #
 ||wild.link^
 
-# Service #
-||x.co^
+# GoDaddy, Inc. Service #
+||x.co^ # The shortened domain #
 
-# Service #
-||y2u.be^
+# YouTube URL Shortener Service #
+||y2u.be^ # The official site and the shortened domain #
 
 # Yahoo Maps Service #
 ||yhoo.it^ # The shortened domain #
 
-# Service #
-||zzb.bz^ # #
+# ZZB.BZ Service #
+||zzb.bz^ # The official site and the shortened domain #
