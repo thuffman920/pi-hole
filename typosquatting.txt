@@ -35,6 +35,9 @@
 # Clever Typosquatting Domain #
 ||cleverapp.us^
 
+# Clicky.me Typosquatting Domain #
+||clickly.me^
+
 # College Board Typosquatting Domain #
 ||myapcollegeboard.com^
 
@@ -282,8 +285,8 @@
 # Typosquatting Domain #
 ||classromm.com^
 ||classsroom.com^
+
 # Typosquatting Domain #
-||clickly.me^
 ||clickprotects.com^
 # Typosquatting Domain #
 ||cofcontest.com^
