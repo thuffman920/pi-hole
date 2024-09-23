@@ -1,4 +1,84 @@
-## OneLaunch installer - takes control of device by controlling news, weather, etc. ##
-onelaunch.com 
-onenews.com
+## OneLaunch installer - takes control of the device by controlling news, weather, etc. ##
+||onelaunch.com^ 
+||onenews.com^
+||45tu1c0.com^
+||mt48.net^
 
+# Template Download Site - These have been known to bundle ADware in their files, i.e. OneLaunch #
+||gettemplatesfast.com^ # Bundles OneLaunch #
+||pageborders.net^ # Bundles OneLaunch #
+||getquickmanuals.com^ # Bundles OneLaunch #
+||getecalendars.com^ # Bundles OneLaunch #
+||templatesgeek.com^ # Bundles WaveBrowser #
+
+# Shift Technologies - It installs the Shift Browser, which changes the default browser. #
+||shift.com^
+||tryshift.com^
+||shiftapis.com^
+
+# Wave Browser - A known Adware browser, like Shift #
+||convertwithwave.com^
+||wavebrowser.co^
+||wavebrowserbase.com^
+||printwithwave.co^
+||mywavehome.net^
+
+# Clear Browser - Another known Adware browser (also has ClearBar, which is a browser hijacker) #
+### This hasn't been fully vetted. These domains were pulled from a Reddit post (https://www.reddit.com/r/crowdstrike/comments/10vhmfg/clearexe_and_clearbrowserexe/) - use at your own risk ###
+||placemytag.com^
+||breakingnewstab.net^
+||clearbar.app^
+||easyprint.app^
+||easyview.app^
+||files.info^
+||findforms.info^
+||freshyrecipes.com^
+||freshysearch.com^
+||freshysearch.net^
+||freshytvguide.info^
+||getclearlauncher.com^
+||getfreshytvguide.com^
+||getfreshytvguidetab.com^
+||getmyofficex.org^
+||getsafesearch.com^
+||gettvsearch.net^
+||horoscopesoftheday.com^
+||manualsdirectory.org^
+||manualsdirectorytab.org^
+||manualslibrary.co^
+||manualssearch.org^
+||mapsrch.com^
+||mediaplayer10.net^
+||myjobsrch.info^
+||mymusicapp.net^
+||mynotesapp.info^
+||newtabbyfrompdftodoc.com^
+||newtabbyfrompdftodoc.org^
+||notesapptab.info^
+||oldschoolgames.org^
+||openfile.live^
+||openfiletab.live^
+||packagesearch.org^
+||packagetracker.pro^
+||packagetrackertab.net^
+||pdftab.com^
+||pdftab.org^
+||printrecipes.net^
+||quickrecipessearch.com^
+||quickspeedtest.net^
+||quickspeedtest.org^
+||searchables.net^
+||searchandprint.recipes^
+||searchforcoupons.info^
+||searchformanuals.org^
+||shortcutsbar.com^
+||streamtvsearch.com^
+||streamtvsearch.net^
+||templatesearch.net^
+||tripsearch.net^
+||videodownloadconvertor.com^
+||websearchextension.info^
+||yahoorecipesearch.com^
+||0srzroz2i7.execute-api.us-east-1.amazonaws.com^
+||tigeoip.com^
+||clearbar-api.app^
