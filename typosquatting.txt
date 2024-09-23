@@ -17,6 +17,10 @@
 # Best Buy Co., Inc. Typosquatting Domain #
 ||bestby.com^
 
+# Blooket Typosquatting Domains #
+||blookit.com^
+||bookit.com^
+
 # Buncombe County Schools Typosquatting Domains #
 ||buncombeschool.org^
 ||buncombcounty.org^
@@ -27,6 +31,9 @@
 
 # ClassDojo Typosquatting Domain #
 ||classdogo.com^
+
+# Clever Typosquatting Domain #
+||cleverapp.us^
 
 # College Board Typosquatting Domain #
 ||myapcollegeboard.com^
@@ -448,3 +455,5 @@
 ||un-act.org^
 # Typosquatting Domain #
 ||virtulpiano.net^
+# Typosquatting Domain #
+||ziglerlaw.com^
