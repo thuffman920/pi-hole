@@ -1,36 +1,450 @@
-googgle.com
+# ABCya.com, LLC. Typosquatting Domain #
+||abyca.com^
 
-# NC Ed Cloud Similar domains #
-||ncedclouds.com^
-||ncedcloudstore.com^
-||myncedcloud.org^
-||ncedclouds.org^
-||ncedccloud.org^
-||ncecloud.org^
-||ncedclod.org^
-||ncedloud.org^
-||ncedcoud.org^
-||ncdcloud.org^
-||nedcloud.org^
-||ncedclud.org^
-||ncescloud.org^
-||nce.dcloud.org^
-||ncedclo.ud.org^
-||ncedcloud.co^
-||ncdecloud.org^
-||www-ncedclouds.com^
-||ncedcloudd.com^
+# Ace Hardware Corporation Typosquatting Domain #
+||acehardwarehome.com^
 
-# MSS Solutions #
+# AESOP / FrontLine Typosquatting Domains #
+||aesoponline.net^
+||aesoponline.org^
 
-# Google Bard #
-||wwwbadgoogle.com^
-||www-bardgoogle.com^
+# Amazon Typosquatting Domain #
+||amazone.com^
 
-# Google Products #
-||fgoogle.com^
-||google.com-firewall.online^
-||sheetsgoogle.com^
+# Archive.org Typosquatting Domain #
+||arhive.org^
 
-# Buncombe County Schools #
+# Best Buy Co., Inc. Typosquatting Domain #
+||bestby.com^
+
+# Buncombe County Schools Typosquatting Domains #
 ||buncombeschool.org^
+||buncombcounty.org^
+||buncomeschools.org^
+
+# Canva Typosquatting Domain #
+||canvas.com^
+
+# ClassDojo Typosquatting Domain #
+||classdogo.com^
+
+# College Board Typosquatting Domain #
+||myapcollegeboard.com^
+
+# Craigslist  Typosquatting Domains #
+||craigslistingonline.com^
+||cregslist.com^
+
+# Desmos Studio PBC Typosquatting Domain #
+||desmoz.com^
+
+# Dictionary.com Typosquatting Domain #
+||diconary.com^
+
+# Duke Energy Typosquatting Domain #
+||duke-engergy.com^
+
+# Enka High School Typosquatting Domain #
+||enkahighschool.com^
+
+# Erwin High School Typosquatting Domain #
+||erwinhighschool.com^
+
+# Etsy Typosquatting Domain #
+||esty.com^
+
+# GetEpic Typosquatting Domains #
+||getepc.com^
+||getepic.co^
+
+# Google Products Typosquatting Domains #
+||accounts-googelmails.com^ # i.e. Google Accounts #
+||fgoogle.com^ # i.e. Google Search #
+||ggole.com^ # i.e. Google Search #
+||gmai.com^ # i.e. Google Mail #
+||gmil.com^ # i.e. Google Mail #
+||goggle.com^ # i.e. Google Search #
+||gogle.com^ # i.e. Google Search #
+||googgle.com^ # i.e. Google Search #
+||googld.co^ # i.e. Google Search #
+||googleclasroom.com^ # i.e. Google Classroom #
+||googleclassroom.org^ # i.e. Google Classroom #
+||googlem.com^ # i.e. Google Search #
+||googlew.com^ # i.e. Google Search #
+||google.com-firewall.online^
+||googoogle.com^ # i.e. Google Search #
+||goole.com^ # i.e. Google Search #
+||gooogleapi.com^ # i.e. Google API #
+||hangouts.com^ # i.e. Google Hangouts #
+||hyoutube.com^ # i.e. YouTube #
+||sheetsgoogle.com^ # i.e. Google Sheets #
+||wwwbadgoogle.com^ # i.e. Google Bard #
+||www-bardgoogle.com^ # i.e. Google Bard #
+||yotube.com^ # i.e. YouTube #
+||yout-ubenocookie.com^ # i.e. YouTube No-Cookies #
+||youtbe.co^ # i.e. YouTube #
+||youtbube.com^ # i.e. YouTube #
+||youtiube.com^ # i.e. YouTube #
+||youtuve.com^ # i.e. YouTube #
+||yoyutbe.com^ # i.e. YouTube #
+||yuotube.com^ # i.e. YouTube #
+
+# Go Formative Typosquatting Domains #
+||goformative.co^
+||goformitave.com^
+||goformitive.com^
+
+# Grammarly Typosquatting Domains #
+||gramarly.com^
+||gramerly.com^
+
+# Home Depot Typosquatting Domain #
+||homedepto.com^
+
+# Ingles Market, Inc. Typosquatting Domain #
+||ingels.com^
+
+# JC Penney Typosquatting Domain #
+||jcpebnney.com^
+
+# Kahoot! Typosquatting Domains #
+||hahoot.it^
+||kahhoot.com^
+||kahootit.com^
+||kahot.it^
+||khoot.com^
+||khoot.it^
+
+# Khan Academy Typosquatting Domains #
+||khanacadamy.com^
+||khanacadamy.org^
+
+# Kohl's Typosquatting Domain #
+||kohl.com^
+
+# Macy's Typosquatting Domains #
+||macy.com^
+||macysjob.com^
+
+# Mars Hill Unversity Typosquatting Domain #
+||mheducatiob.com^
+
+# Microsoft Products Typosquatting Domains #
+||endpointmicrosoft.com^ # i.e. Intune #
+||securitymicrosoft.com^ # i.e. Defender #
+||loginmicrosoftonline.com^ # i.e. Microsoft Account #
+||safemcrosoft.com^ # i.e. Safe Microsoft Search #
+
+# MIT Scratch Typosquatting Domain #
+||sctrach.com^
+
+# MSS Solutions, LLC. Typosquatting Domains #
+||msssoulution.com^
+||msssoluttions.com^
+||msssollutiion.com^
+||msssollution.com^
+||msssoluttion.com^
+||msssoluttion.com^
+||msssoltuions.com^
+||msssoultions.com^
+||msssolutionsinc.com^
+||mssslutions.com^
+||mssollutions.com^
+
+# NCEdCloud Typosquatting Domains #
+||myncedcloud.org^
+||nccloud.org^
+||ncdcloud.org^
+||ncdecloud.org^
+||nce.dcloud.org^
+||ncecloud.org^
+||ncedccloud.org^
+||ncedclo.ud.org^
+||ncedclod.org^
+||ncedcloud.co^
+||ncedcloud.com^
+||ncedcloudd.com^
+||ncedclouds.com^
+||ncedclouds.org^
+||ncedcloudstore.com^
+||ncedclud.org^
+||ncedcoud.org^
+||ncedcould.org^
+||ncedloud.org^
+||ncescloud.org^
+||nedcloud.org^
+||rapididentity.io^
+||www-ncedclouds.com^
+
+# NCVPS Typosquatting Domain #
+||ncpvs.instucture.com^
+
+# NC DPI Typosquatting Domain #
+||ncdpi.com^
+
+# North Buncombe High School Typosquatting Domain #
+||northbuncombehighschool.com^
+
+# Owen High School Typosquatting Domain #
+||owenhighschool.com^
+
+# Pinterest Typosquatting Domain #
+||pintrest.com^
+
+# The Progressive Corporation Typosquatting Domain #
+||progresive.com^
+
+# Quizlet Typosquatting Domains #
+||qiuzlet.com^
+||quislet.com^
+||quizelet.live^
+||quizleet.com^
+||quizziz.com^
+||quizzlet.live^
+||quzlet.com^
+
+# Powerschool Typosquatting Domains #
+||powerschol.com^
+||powerschoo.com^
+||powerschool.org^
+||powerschoool.com^
+||powershool.com^
+||powerwchool.com^
+||pwerschool.com^
+
+# Reynolds High School Typosquatting Domain #
+||reynoldshighschool.com^
+
+# Roberson High School Typosquatting Domain #
+||robersonhighschool.com^
+
+# Rotten Tomatoes Typosquatting Domain #
+||rottontomatoes.com^
+
+# SeeSaw Typosquatting Domains #
+||appseesaw.me^
+||seasaw.me^
+||seesaw-thelearningjournal.io^
+
+# State Employee Credit Union Typosquatting Domain #
+||stateemployeescreditunions.com^
+
+# Steam Community Typosquatting Domain #
+||steamcomunlity.com^
+||steamurmmunity.com^
+
+# The New York Times Typosquatting Domain #
+||nyttimes.com^
+
+# Tiny URL Typosquatting Domain #
+||yinyurl.com^
+||tinycurl.com^
+||tinyyurl.com^
+
+# VMware Typosquatting Domain #
+||vwmare.com^
+||vmare.com^
+
+# Vocabulary.com Typosquatting Domain #
+||voacabulary.com^
+||volcabulary.com^
+
+# Weebly Typosquatting Domain #
+||webly.com^
+||weeebly.com^
+
+# Typosquatting Domain #
+||10fastfingers.net^
+# Typosquatting Domain #
+||acheve3000.com^
+||achive300.com^
+# Typosquatting Domain #
+||autismnetwork.org^
+# Typosquatting Domain #
+||bandfolio.com^
+# Typosquatting Domain #
+||booglesworldesl.com^
+# Typosquatting Domain #
+||careeroestop.org^
+# Typosquatting Domain #
+||ceriport.com^
+# Typosquatting Domain #
+||citationmachine.com^
+# Typosquatting Domain #
+||claasskick.com^
+# Typosquatting Domain #
+||classromm.com^
+||classsroom.com^
+# Typosquatting Domain #
+||clickly.me^
+||clickprotects.com^
+# Typosquatting Domain #
+||cofcontest.com^
+# Typosquatting Domain #
+||consitutioncenter.org^
+# Typosquatting Domain #
+||coolamth.com^
+||coolmath-gams.com^
+||coolmeth.com^
+# Typosquatting Domain #
+||delyamath.com^
+||delyamath.comstudents^
+# Typosquatting Domain #
+||discoveryeducatiom.com^
+# Typosquatting Domain #
+||docagent.com^
+# Typosquatting Domain #
+||educaiton.com^
+# Typosquatting Domain #
+||ellevationseducation.com^
+# Typosquatting Domain #
+||engerneering.com^
+||engerniring.com^
+||engieering.com^
+# Typosquatting Domain #
+||englishlearningcourse.com^
+# Typosquatting Domain #
+||eplorelearning.com^
+# Typosquatting Domain #
+||explorebiology.com^
+# Typosquatting Domain #
+||explorelaerning.com^
+||exploreleaning.com^
+||explorelearnimg.com^
+||explorelearning.org^
+||explorerlearning.com^
+||explorlearning.com^
+||expolerlearning.com^
+# Typosquatting Domain #
+||fortniteburger.com^
+# Typosquatting Domain #
+||freeames.com^
+# Typosquatting Domain #
+||geoguesser.com^
+# Typosquatting Domain #
+||gfbunit.com^
+# Typosquatting Domain #
+||haywoodcountyschools.com^
+# Typosquatting Domain #
+||imagineleaarning.com^
+||imaginelearnign.com^
+# Typosquatting Domain #
+||ixd.com^
+# Typosquatting Domain #
+||jionmyquiz.com^
+||joimpd.com^
+||joimyquiz.com^
+||joindp.com^
+||joinmyqui.com^
+||joinmyquix.com^
+||joinmyquz.com^
+||jouinpd.com^
+# Typosquatting Domain #
+||jquerylivecdn.com^
+# Typosquatting Domain #
+||k12-northcarolina.us^
+||k12nc.us^
+# Typosquatting Domain #
+||krystaslifeinfood.com^
+# Typosquatting Domain #
+||learnc.org^
+||learnnc.com^
+# Typosquatting Domain #
+||lessn.net^
+# Typosquatting Domain #
+||logins-nerfilx.com^
+# Typosquatting Domain #
+||moreofit.com^
+# Typosquatting Domain #
+||morphie.com^
+# Typosquatting Domain #
+||multiplacation.com^
+||multlipication.com^
+# Typosquatting Domain #
+||myestub.com^
+# Typosquatting Domain #
+||myhrw.com^
+# Typosquatting Domain #
+||myncretirment.com^
+# Typosquatting Domain #
+||ncarrers.org^
+||ncarrest.org^
+||nccarrers.org^
+# Typosquatting Domain #
+||ncccourts.org^
+# Typosquatting Domain #
+||ncesecu.org^
+# Typosquatting Domain #
+||ncschoolheros.com^
+# Typosquatting Domain #
+||nitroype.com^
+||nytrotype.com^
+# Typosquatting Domain #
+||panoramed.com^
+# Typosquatting Domain #
+||pbiskids.com^
+# Typosquatting Domain #
+||pearsonlabandmastering.com^
+# Typosquatting Domain #
+||pearsonrelize.com^
+# Typosquatting Domain #
+||playprodigy.com^
+||prodigy.game.com^
+# Typosquatting Domain #
+||razkids.com^
+# Typosquatting Domain #
+||readbookstory.com^
+# Typosquatting Domain #
+||realizepearson.com^
+# Typosquatting Domain #
+||rosettasoneclassroom.com^
+# Typosquatting Domain #
+||safeupload.org^
+# Typosquatting Domain #
+||sampulater.com^
+# Typosquatting Domain #
+||sascirriculumpathways.com^
+# Typosquatting Domain #
+||scholastics.com^
+||schoolastic.com^
+# Typosquatting Domain #
+||scoolwork.com^
+# Typosquatting Domain #
+||scroller.com^
+# Typosquatting Domain #
+||segmnet.com^
+# Typosquatting Domain #
+||senorwolly.com^
+# Typosquatting Domain #
+||shifti.com^
+# Typosquatting Domain #
+||sightreadingfactroy.com^
+# Typosquatting Domain #
+||solvememobiles.com^
+# Typosquatting Domain #
+||soundclou.com^
+||soundclous.com^
+# Typosquatting Domain #
+||spanknang.com^
+# Typosquatting Domain #
+||studysweekly.com^
+||stuidesweekly.com^
+# Typosquatting Domain #
+||teacherpop.org^
+# Typosquatting Domain #
+||teacherspayteacher.com^
+||teacherpayteachers.com^
+# Typosquatting Domain #
+||tedtalk.com^
+# Typosquatting Domain #
+||testpilotthegame.com^
+# Typosquatting Domain #
+||timestabels.com^
+# Typosquatting Domain #
+||trktnc.com^
+# Typosquatting Domain #
+||typping.com^
+# Typosquatting Domain #
+||un-act.org^
+# Typosquatting Domain #
+||virtulpiano.net^
