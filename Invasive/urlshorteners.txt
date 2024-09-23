@@ -1,57 +1,182 @@
-||adf.ly^
-||ai6.net^
-||bit.do^
-||bl.ink^
-||buff.ly^
-||bulkurlshortener.com^
-||chl.li^
-||cli.gs^
-||clickly.me^
-||clickmeter.com^
-||cutt.ly^
+# Linkvertise Service #
+||adf.ly^ # The official site and the shortened domain #
+
+# AI6 NET Service #
+||ai6.net^ # The official site and the shortened domain #
+
+# Bing Search Engine Service #
+||binged.it^ # The shortened domain #
+
+# Bit.do Service #
+||bit.do^ # The official site and the shortened domain #
+
+# Bitly, Inc. Service #
+||bitly.com^ # This is the main site, the URL builder #
+||bit.ly^ # The shortened domain #
+
+# BL.INK Service #
+||bl.ink^ # The official site and the shortened domain #
+
+# Buffer Service #
+||buff.ly^ # The official site and the shortened domain #
+
+# Bulk URL Shortener Service #
+||bulkurlshortener.com^ # The official site and the shortened domain #
+
+# chl.li Service #
+||chl.li^ # The official site and the shortened domain #
+
+# Cligs Service #
+#  - This was a popular URL Shortener on Twitter years ago, but in June 2009, this service was hacked, which is a perfect example of why URL shorteners are a poor idea. 
+#    See https://web.archive.org/web/20090628221947/http://blog.cli.gs/news/cligs-got-hacked-restoration-from-backup-started for more details #
+||cli.gs^ # The official site #
+
+# Clicky.me Service #
+||clicky.me^ # The official site and the shortened domain #
+
+# ClickMeter Service #
+||clickmeter.com^ # The official site and the shortened domain #
+
+# Cuttly Service #
+||cutt.ly^ # The official site and the shortened domain #
+
+# Service #
 ||dub.sh^
+
+# Service #
 ||exitbar.io^
 ||extbr.com^
+
+# Service #
 ||fastforward.com^
-||golinks.io^
+
+# GoLinks Service #
+||golinks.io^ # This is the site. The shortened domain looks like "http://go/XXXXX" - these are hard to block. #
+
+# Service #
 ||hurlurl.com^
+
+# Service #
 ||is.gd^
+
+# Service #
 ||jellyurl.com^
+
+# Link2u Service #
+||link2u.cc^ # The official site #
+||l.l2u.in^ # The shortened domain #
+
+# Service #
 ||linklyhq.com^
+
+# Service #
 ||linktr.ee^
+
+# Service #
 ||lnkiy.com^
 ||lnkiy.in^
+
+# Service #
 ||lnnkin.com^
+
+# Service #
 ||maglit.me^
+
+# Service #
 ||manage.smarturl.it^
+
+# MapQuest Maps Service #
+||mapq.st^ # The shortened domain #
+
+# Service #
 ||marketingstack.io^
+
+# Service #
 ||musicjet.com^
+
+# Service #
 ||ouo.io^
+
+# Service #
 ||ow.ly^
+
+# PicSee Service # 
+||picsee.io^ # The official site #
+
+# Service #
 ||pixelme.me^
+
+# Service #
 ||rb.gy^
+
+# Service #
 ||recut.in^
+
+# Service #
 ||replug.io^
+
+# Service #
 ||s.42l.fr^
+
+# Service #
 ||sbee.link^
+
+# Service #
 ||short.io^
+
+# Service #
 ||shorturl.ac^
 ||shorturl.at^
+
+# Service #
 ||sniply.io^
+
+# Service #
 ||socx.ly^
 ||socxo.com^
+
+# Service #
 ||t.ly^
+
+# Service #
 ||t2mio.com^
+
+# Service #
 ||ths.li^
+
+# Service #
 ||tiny.cc^
 ||tiny.ie^
-||tinyurl.com^
-||tize.io^
+
+# TinyURL, LLC Service #
+||tinyurl.com^ # The official site and the shortened domain #
+
+# Tize Service #
+||tize.io^ # The official site and the shortened domain #
+
+# Service #
 ||tny.im^
+
+# Service #
 ||to.tc^
+
+# Service #
 ||v.gd^
+
+# Service #
 ||w.wiki^
+
+# Service #
 ||wild.link^
+
+# Service #
 ||x.co^
+
+# Service #
 ||y2u.be^
-||zzb.bz^
+
+# Yahoo Maps Service #
+||yhoo.it^ # The shortened domain #
+
+# Service #
+||zzb.bz^ # #
