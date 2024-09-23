@@ -13,7 +13,7 @@
 ||facebook-google.com^ # Impersonates Facebook #
 ||forlumineoner.com^
 ||fvcwqkkqmuv.com^ 
-||peppyinsta.com^ # Suspposedly a domain for Peppy Insta made by SM Foods - VirusTotal has this marked as malicious #
+||peppyinsta.com^ # Supposedly a domain for Peppy Insta made by SM Foods - VirusTotal has this marked as malicious #
 ||nexusonedegoogle.com^
 ||o2ogoogle.com^
 ||pachatgpt4google.com^ # Mimics ChatGPT #
