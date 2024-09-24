@@ -9,11 +9,14 @@
 2024-09-20:
   * Created 'Ransomware.txt' file
      - Added three known Ransomware attacks: Black Basta, LockBit 3.0, and Ransomhub - a total of 39 domains
-  * 
+  * 'typosquatting.txt':
+     - Added 17 domains
 
 2023-12-07:
   * advertisement.txt:
      - Added 107 domains found from Reddit posts and other Pi-Hole lists.
+  * typosquatting.txt:
+     - Added five domains and rearranged for grouping purposes.
   
 2023-12-06:
   * advertisement.txt:
@@ -22,3 +25,9 @@
 2023-12-05:
   * Created 'advertisement.txt' file
       - Added 51 domains found from uBlock Origin that were blocked by other AdGuard and EasyList blocklists.
+  * 'typosquatting.txt':
+      - Added 3 typosquatting domains impersonating an known educational website, namely NCEdCloud
+
+2023-12-04:
+  * Created 'typosquatting.txt' file
+      - Added 1 known Google search typosquatting domains.
