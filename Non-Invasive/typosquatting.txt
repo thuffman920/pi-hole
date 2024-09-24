@@ -1,8 +1,15 @@
+# 10FastFingers Typosquatting Domain #
+||10fastfingers.net^
+
 # ABCya.com, LLC. Typosquatting Domain #
 ||abyca.com^
 
 # Ace Hardware Corporation Typosquatting Domain #
 ||acehardwarehome.com^
+
+# Achieve3000, Inc. Typosquatting Domain #
+||acheve3000.com^
+||achive300.com^
 
 # AESOP / FrontLine Typosquatting Domains #
 ||aesoponline.net^
@@ -29,8 +36,17 @@
 # Canva Typosquatting Domain #
 ||canvas.com^
 
+# Certiport Typosquatting Domain #
+||ceriport.com^
+
+# Citation Machine Typosquatting Domain #
+||citationmachine.com^
+
 # ClassDojo Typosquatting Domain #
 ||classdogo.com^
+
+# Classkick Typosquatting Domain #
+||claasskick.com^
 
 # Clever Typosquatting Domain #
 ||cleverapp.us^
@@ -40,6 +56,14 @@
 
 # College Board Typosquatting Domain #
 ||myapcollegeboard.com^
+
+# College Options Foundation Contests Typosquatting Domain #
+||cofcontest.com^
+
+# Cool Math Games Typosquatting Domain #
+||coolamth.com^
+||coolmath-gams.com^
+||coolmeth.com^
 
 # Craigslist  Typosquatting Domains #
 ||craigslistingonline.com^
@@ -51,8 +75,25 @@
 # Dictionary.com Typosquatting Domain #
 ||diconary.com^
 
+# Discovery Education Typosquatting Domain #
+||discoveryeducatiom.com^
+
+# DocAgent Typosquatting Domain #
+||docagent.com^
+
 # Duke Energy Typosquatting Domain #
 ||duke-engergy.com^
+
+# Education.com Typosquatting Domain #
+||educaiton.com^
+
+# Ellevation Typosquatting Domain #
+||ellevationseducation.com^
+
+# engineering.com Typosquatting Domain #
+||engerneering.com^
+||engerniring.com^
+||engieering.com^
 
 # Enka High School Typosquatting Domain #
 ||enkahighschool.com^
@@ -62,6 +103,9 @@
 
 # Etsy Typosquatting Domain #
 ||esty.com^
+
+# ExploreLearning Typosquatting Domain #
+||eplorelearning.com^
 
 # GetEpic Typosquatting Domains #
 ||getepc.com^
@@ -131,6 +175,9 @@
 
 # Kohl's Typosquatting Domain #
 ||kohl.com^
+
+# Lanternfish ESL Typosquatting Domain #
+||booglesworldesl.com^
 
 # Macy's Typosquatting Domains #
 ||macy.com^
@@ -243,6 +290,9 @@
 ||steamcomunlity.com^
 ||steamurmmunity.com^
 
+# The National Constitution Center Typosquatting Domain #
+||consitutioncenter.org^
+
 # The New York Times Typosquatting Domain #
 ||nyttimes.com^
 
@@ -263,58 +313,25 @@
 ||webly.com^
 ||weeebly.com^
 
-# Typosquatting Domain #
-||10fastfingers.net^
-# Typosquatting Domain #
-||acheve3000.com^
-||achive300.com^
+# Zigler Law Group Typosquatting Domain #
+||ziglerlaw.com^
+
 # Typosquatting Domain #
 ||autismnetwork.org^
 # Typosquatting Domain #
 ||bandfolio.com^
 # Typosquatting Domain #
-||booglesworldesl.com^
-# Typosquatting Domain #
 ||careeroestop.org^
-# Typosquatting Domain #
-||ceriport.com^
-# Typosquatting Domain #
-||citationmachine.com^
-# Typosquatting Domain #
-||claasskick.com^
 # Typosquatting Domain #
 ||classromm.com^
 ||classsroom.com^
-
 # Typosquatting Domain #
 ||clickprotects.com^
-# Typosquatting Domain #
-||cofcontest.com^
-# Typosquatting Domain #
-||consitutioncenter.org^
-# Typosquatting Domain #
-||coolamth.com^
-||coolmath-gams.com^
-||coolmeth.com^
 # Typosquatting Domain #
 ||delyamath.com^
 ||delyamath.comstudents^
 # Typosquatting Domain #
-||discoveryeducatiom.com^
-# Typosquatting Domain #
-||docagent.com^
-# Typosquatting Domain #
-||educaiton.com^
-# Typosquatting Domain #
-||ellevationseducation.com^
-# Typosquatting Domain #
-||engerneering.com^
-||engerniring.com^
-||engieering.com^
-# Typosquatting Domain #
 ||englishlearningcourse.com^
-# Typosquatting Domain #
-||eplorelearning.com^
 # Typosquatting Domain #
 ||explorebiology.com^
 # Typosquatting Domain #
@@ -458,5 +475,3 @@
 ||un-act.org^
 # Typosquatting Domain #
 ||virtulpiano.net^
-# Typosquatting Domain #
-||ziglerlaw.com^
