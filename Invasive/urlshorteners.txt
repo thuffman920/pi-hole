@@ -141,7 +141,8 @@
 ||shorturl.at^
 
 # Service #
-||sniply.io^
+||sniply.io^ # The official site #
+||snip.ly^ # The shortened domain #
 
 # Social Bee Service #
 ||socialbee.com^ # The official site #
