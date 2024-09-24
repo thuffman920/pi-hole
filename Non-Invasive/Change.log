@@ -1,33 +1,39 @@
 2024-09-23:
   * Added two folders, "Invasive" and "Non-Invasive," and moved the blocklists to the appropriate folders.
-  * Ransomware.txt: 
-     - 
   * advertisement.txt:
-     - Found that YouTube failed to load with the following error: "You're offline. Check your connection."
-     - We fixed it by changing "youtube.com/youtubei/v1/" to "||youtube.com/youtubei/v1/log_event?" and "play.google.com" to "||play.google.com/log?".
+     - YouTube failed to load with the following error: "You're offline. Check your connection."
+     - Fixed by changing "youtube.com/youtubei/v1/" to "||youtube.com/youtubei/v1/log_event?" and "play.google.com" to "||play.google.com/log?".
+  * malicious.txt:
+     - We fixed "||search.yahoo[.]com^" to "||search.yahoo.com^" as it is formatted improperly.
 
 2024-09-20:
   * Created 'Ransomware.txt' file
      - Added three known Ransomware attacks: Black Basta, LockBit 3.0, and Ransomhub - a total of 39 domains
-  * 'typosquatting.txt':
+  * typosquatting.txt:
      - Added 17 domains
+  * malicious.txt:
+     - Added 237 domains, which were reported from various resources. We added domains associated with the Polyfill Supply Chain Attack, ISOtonic Malvertisement, and any domains found on the internet as malicious.
 
 2023-12-07:
   * advertisement.txt:
      - Added 107 domains found from Reddit posts and other Pi-Hole lists.
   * typosquatting.txt:
-     - Added five domains and rearranged for grouping purposes.
+     - Added five domains and rearranged them for grouping purposes.
+  * malicious.txt:
+     - Added 20 domains
   
 2023-12-06:
   * advertisement.txt:
-     - Added 3 domains found from uBlock Origin that were blocked by other AdGuard and EasyList blocklists.
+     - Added three domains found from uBlock Origin that were blocked by other AdGuard and EasyList blocklists.
     
 2023-12-05:
   * Created 'advertisement.txt' file
       - Added 51 domains found from uBlock Origin that were blocked by other AdGuard and EasyList blocklists.
-  * 'typosquatting.txt':
-      - Added 3 typosquatting domains impersonating an known educational website, namely NCEdCloud
+  * typosquatting.txt:
+      - Added three typosquatting domains impersonating a known educational website, namely NCEdCloud
+  * Created 'malicious.txt' file:
+      - Six domains found in uBlock Origin and other blocklists were added.
 
 2023-12-04:
   * Created 'typosquatting.txt' file
-      - Added 1 known Google search typosquatting domains.
+      - Added one known Google search typosquatting domain.
