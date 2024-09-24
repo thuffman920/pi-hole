@@ -180,5 +180,5 @@ an.facebook.com
 pixel.facebook.com
 
 # Google Play Store
-# ||play.google.com^ - YouTube keeps giving a "No Internet" #
+# ||play.google.com^ - YouTube keeps giving a "You're offline. Check your connection." #
 
