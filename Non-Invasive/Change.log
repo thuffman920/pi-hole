@@ -6,7 +6,7 @@
   * malicious.txt:
      - We fixed "||search.yahoo[.]com^" to "||search.yahoo.com^" as it is formatted improperly.
   * Created 'urlshorteners.txt":
-     - Added 71 domains for URL Shortening services.
+     - Added 72 domains for URL Shortening services.
 
 2024-09-20:
   * Created 'Ransomware.txt' file
