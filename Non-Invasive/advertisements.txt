@@ -181,3 +181,8 @@ pixel.facebook.com
 
 # Google Play Store
 ||play.google.com/log?
+
+# Linkly #
+#  - This is an Advertisement company that provide URL Shorteners. They incorporate tracking into their links for their marketing purposes. #
+#  - Since this company provides URL Shorteners, this domain is also included in the 'urlshorteners.txt.' #
+||linklyhq.com^
