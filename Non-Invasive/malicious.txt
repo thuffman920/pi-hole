@@ -23,7 +23,7 @@
 ||wwwbadgoogle.com^
 ||ybs2ffs7v.com^
 
-# Polyfille Supply Chain Attack #
+# Polyfill Supply Chain Attack #
 ||bootcdn.net^
 ||staticfile.net^
 ||staticfile.org^
