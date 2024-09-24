@@ -50,7 +50,7 @@ rr3---sn-5ualdnss.googlevideo.com
 youtube.com/ptracking/
 youtube.com/youtubei/v1/
 youtube.com/api/stats/
-||yt3.ggpht.com^
+# ||yt3.ggpht.com^ - This seems to be a necessary part for loading the icons and video blocks in YouTube #
 
 # Google Ads
 ||ads.google.com^
