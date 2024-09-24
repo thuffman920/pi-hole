@@ -70,24 +70,27 @@
 ||link2u.cc^ # The official site #
 ||l.l2u.in^ # The shortened domain #
 
-# Service #
-||linklyhq.com^
+# Linkly Service #
+#  - This domain is included in the 'advertisement.txt' blocklist. For full details, see the note on that blocklist. #
+||linklyhq.com^ # The official site #
 
 # Linktree Service #
 ||linktr.ee^ # The official site and the shortened domain #
 
-# Service #
-||lnkiy.com^
-||lnkiy.in^
+# Lnkiy Service #
+||lnkiy.com^ # The official site #
+||lnkiy.in^ # The shortened domain #
 
-# Service #
-||lnnkin.com^
+# Lnnkin Online Private Limited Service #
+||lnnkin.com^ # The official site and the shortened domain #
 
 # MagLit Service #
 ||maglit.me^ # The official site and the shortened domain #
 
-# Service #
-||manage.smarturl.it^
+# Linkfire Service #
+#  - This company uses "Smart Links" to advertise / market music, podcasts, and audio content. #
+#  - You will find Linkfire blocked in "advertisement.txt." See the note for more details. #
+||manage.smarturl.it^ # The shortened domain #
 
 # MapQuest Maps Service #
 ||mapq.st^ # The shortened domain #
