@@ -1,3 +1,8 @@
+2024-09-24:
+  * Created "command_control.txt":
+      - A list of C2 domains in campaigns by attackers
+      - Added 70 domains, provided by Black Lotus Labs (see https://blog.lumen.com/derailing-the-raptor-train/ for all of the details).
+
 2024-09-23:
   * Added two folders, "Invasive" and "Non-Invasive," and moved the blocklists to the appropriate folders.
   * advertisement.txt:
