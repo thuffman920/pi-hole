@@ -1,20 +1,15 @@
-# Linkvertise Service #
-#  - This company has monetized shortened links. This allows users to earn money whenever other people click on their URL shortened link. #
-#  - You will find Linkvertise blocked in "advertisement.txt." See the note for more details. #
-||adf.ly^ # The shortened domain #
-
 # AI6 NET Service #
 ||ai6.net^ # The official site and the shortened domain #
 
 # Bing Search Engine Service #
 ||binged.it^ # The shortened domain #
 
-# Bit.do Service #
-||bit.do^ # The official site and the shortened domain #
-
 # Bitly, Inc. Service #
 ||bitly.com^ # This is the main site, the URL builder #
 ||bit.ly^ # The shortened domain #
+
+# Bit.do Service #
+||bit.do^ # The official site and the shortened domain #
 
 # BL.INK Service #
 ||bl.ink^ # The official site and the shortened domain #
@@ -28,16 +23,16 @@
 # chl.li Service #
 ||chl.li^ # The official site and the shortened domain #
 
-# Cligs Service #
-#  - This was a popular URL Shortener on Twitter years ago, but in June 2009, this service was hacked, which is a perfect example of why URL shorteners are a poor idea. 
-#    See https://web.archive.org/web/20090628221947/http://blog.cli.gs/news/cligs-got-hacked-restoration-from-backup-started for more details #
-||cli.gs^ # The official site #
+# ClickMeter Service #
+||clickmeter.com^ # The official site and the shortened domain #
 
 # Clicky.me Service #
 ||clicky.me^ # The official site and the shortened domain #
 
-# ClickMeter Service #
-||clickmeter.com^ # The official site and the shortened domain #
+# Cligs Service #
+#  - This was a popular URL Shortener on Twitter years ago, but in June 2009, this service was hacked, which is a perfect example of why URL shorteners are a poor idea. 
+#    See https://web.archive.org/web/20090628221947/http://blog.cli.gs/news/cligs-got-hacked-restoration-from-backup-started for more details #
+||cli.gs^ # The official site #
 
 # Cuttly Service #
 ||cutt.ly^ # The official site and the shortened domain #
@@ -53,11 +48,18 @@
 ||exitbar.io^ # The official site #
 ||extbr.com^ # The shortened domain #
 
+# GoDaddy, Inc. Service #
+||x.co^ # The shortened domain #
+
 # GoLinks Service #
 ||golinks.io^ # This is the site. The shortened domain looks like "http://go/XXXXX" - these are hard to block. #
 
 # Hurlurl Service #
 ||hurlurl.com^ # The official site and the shortened domain #
+
+# Hootsuite Service #
+||hootsuite.com^ # The official site; this site isn't limited to only a URL shortener - so be cautious when blocking this domain #
+||ow.ly^ # The shortened domain #
 
 # is.gd Service #
 ||is.gd^ # The official site and the shortened domain #
@@ -69,12 +71,22 @@
 ||link2u.cc^ # The official site #
 ||l.l2u.in^ # The shortened domain #
 
+# Linkfire Service #
+#  - This company uses "Smart Links" to advertise / market music, podcasts, and audio content. #
+#  - You will find Linkfire blocked in "advertisement.txt." See the note for more details. #
+||manage.smarturl.it^ # The shortened domain #
+
 # Linkly Service #
 #  - This domain is included in the 'advertisement.txt' blocklist. For full details, see the note on that blocklist. #
 ||linklyhq.com^ # The official site #
 
 # Linktree Service #
 ||linktr.ee^ # The official site and the shortened domain #
+
+# Linkvertise Service #
+#  - This company has monetized shortened links. This allows users to earn money whenever other people click on their URL shortened link. #
+#  - You will find Linkvertise blocked in "advertisement.txt." See the note for more details. #
+||adf.ly^ # The shortened domain #
 
 # Lnkiy Service #
 ||lnkiy.com^ # The official site #
@@ -86,16 +98,8 @@
 # MagLit Service #
 ||maglit.me^ # The official site and the shortened domain #
 
-# Linkfire Service #
-#  - This company uses "Smart Links" to advertise / market music, podcasts, and audio content. #
-#  - You will find Linkfire blocked in "advertisement.txt." See the note for more details. #
-||manage.smarturl.it^ # The shortened domain #
-
 # MapQuest Maps Service #
 ||mapq.st^ # The shortened domain #
-
-# Service #
-||marketingstack.io^
 
 # McAfee Corporation Service #
 ||mcaf.ee^ # The shortened domain #
@@ -105,40 +109,26 @@
 #  - You will find MusicJet blocked in "advertisement.txt." See the note for more details. #
 ||musicjet.com^ # The official site and the shortened domain #
 
-# Service #
-||ouo.io^
-
-# Hootsuite Service #
-||hootsuite.com^ # The official site; this site isn't limited to only a URL shortener - so be cautious when blocking this domain #
-||ow.ly^ # The shortened domain #
-
 # PicSee Service # 
 ||picsee.io^ # The official site #
-
-# Service #
-||pixelme.me^
 
 # Rebrandly Service #
 ||rebrandly.com^ # The official site #
 ||rb.gy^ # The shortened domain #
 
-# Service #
-||recut.in^
+# Replug Service #
+||replug.io^ # The official site and the shortened domain #
 
-# Service #
-||replug.io^
+# ShortUrl Service - Different from the next one (notice spelling differences) #
+||shorturl.ac^ # The official site #
 
-# Service #
-||s.42l.fr^
+# ShortURL Service - Different from the previous one (notice spelling differences) #
+||shorturl.at^ # The official site #
 
 # Short.io Service #
 ||short.io^ # The official site and the shortened domain #
 
-# Service #
-||shorturl.ac^
-||shorturl.at^
-
-# Service #
+# Sniply Service #
 ||sniply.io^ # The official site #
 ||snip.ly^ # The shortened domain #
 
@@ -149,12 +139,45 @@
 # ThrillShare Service #
 ||5il.co^ # The official site #
 
-# Service #
-||socx.ly^
-||socxo.com^
+# TinyURL, LLC Service #
+||tinyurl.com^ # The official site and the shortened domain #
+
+# Tize Service #
+||tize.io^ # The official site and the shortened domain #
 
 # X (formally Twitter) Service # 
 ||t.co^ # The shortened domain #
+
+# Yohn Service #
+||colibri.live^
+
+# YouTube URL Shortener Service #
+||y2u.be^ # The official site and the shortened domain #
+
+# Yahoo Maps Service #
+||yhoo.it^ # The shortened domain #
+
+# ZZB.BZ Service #
+||zzb.bz^ # The official site and the shortened domain #
+
+# Service #
+||marketingstack.io^
+
+# Service #
+||ouo.io^
+
+# Service #
+||pixelme.me^
+
+# Service #
+||recut.in^
+
+# Service #
+||s.42l.fr^
+
+# Service #
+||socx.ly^
+||socxo.com^
 
 # Service #
 ||t.ly^
@@ -168,12 +191,6 @@
 # Service #
 ||tiny.cc^
 ||tiny.ie^
-
-# TinyURL, LLC Service #
-||tinyurl.com^ # The official site and the shortened domain #
-
-# Tize Service #
-||tize.io^ # The official site and the shortened domain #
 
 # Service #
 ||tny.im^
@@ -189,18 +206,3 @@
 
 # Service #
 ||wild.link^
-
-# GoDaddy, Inc. Service #
-||x.co^ # The shortened domain #
-
-# Yohn Service #
-||colibri.live^
-
-# YouTube URL Shortener Service #
-||y2u.be^ # The official site and the shortened domain #
-
-# Yahoo Maps Service #
-||yhoo.it^ # The shortened domain #
-
-# ZZB.BZ Service #
-||zzb.bz^ # The official site and the shortened domain #
