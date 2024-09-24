@@ -446,7 +446,7 @@ apnmedia.ask.com/media/toolbar/
 ||avanquestusa.com^
 ||avazutracking.net^
 ||averagedownload.com^
-avery.com/vgnfiles/op/en_us/static files/templates/toolbar/
+||avery.com/vgnfiles/op/en_us/static files/templates/toolbar
 ||avg.com^
 ||avsystemprotect.nl^
 ||awesomehp.com^
