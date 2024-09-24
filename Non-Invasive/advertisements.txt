@@ -183,6 +183,11 @@ pixel.facebook.com
 ||play.google.com/log?
 
 # Linkly #
-#  - This is an Advertisement company that provide URL Shorteners. They incorporate tracking into their links for their marketing purposes. #
+#  - This is an Advertisement company that provides URL Shorteners. They incorporate tracking into their links for their marketing purposes. #
 #  - Since this company provides URL Shorteners, this domain is also included in the 'urlshorteners.txt.' #
 ||linklyhq.com^
+
+# Linkfire #
+#  - Linkfire is a marketing company that obtains analytics, which is said to promote content better. #
+#  - According to Apple Music's website, they have partnered with Linkfire (https://artists.apple.com/support/3395-value-linkfire-links), so blocking this domain could break Apple Music. This needs to be tested. #
+||linkfire.com^
