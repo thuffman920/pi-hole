@@ -70,6 +70,10 @@
 # Jelly URL Service #
 ||jellyurl.com^ # The official site and the shortened domain #
 
+# La Contre-Voie Service #
+||lacontrevoie.fr^ # The official site #
+||s.42l.fr^ # The shortened domain #
+
 # Link2u Service #
 ||link2u.cc^ # The official site #
 ||l.l2u.in^ # The shortened domain #
@@ -112,12 +116,21 @@
 #  - You will find MusicJet blocked in "advertisement.txt." See the note for more details. #
 ||musicjet.com^ # The official site and the shortened domain #
 
+# Ouo.io Service #
+||ouo.io^ # The official site and the shortened domain #
+
 # PicSee Service # 
 ||picsee.io^ # The official site #
+
+# PixelMe Service #
+||pixelme.me^ # The official site #
 
 # Rebrandly Service #
 ||rebrandly.com^ # The official site #
 ||rb.gy^ # The shortened domain #
+
+# Recut Service #
+||recut.in^ # The official site and the shortened domain #
 
 # Replug Service #
 ||replug.io^ # The official site and the shortened domain #
@@ -162,8 +175,24 @@
 # Tize Service #
 ||tize.io^ # The official site and the shortened domain #
 
+# TO.TC Service #
+||to.tc^ # The official site and the shortened domain #
+
+# tny.im Service #
+||tny.im^ # The official site and the shortened domain #
+
 # T.LY Service #
 ||t.ly^ # The official site and the shortened domain #
+
+# v.gd Service #
+||v.gd^ # The official site and the shortened domain #
+
+# Wikipedia Service #
+||w.wiki^ # The shortened domain #
+
+# Wildlink Service #
+||wildlink.com^ # The official site #
+||wild.link^ # The shortened domain #
 
 # X (formally Twitter) Service # 
 ||t.co^ # The shortened domain #
@@ -179,36 +208,3 @@
 
 # ZZB.BZ Service #
 ||zzb.bz^ # The official site and the shortened domain #
-
-# Service #
-||marketingstack.io^
-
-# Service #
-||ouo.io^
-
-# Service #
-||pixelme.me^
-
-# Service #
-||recut.in^
-
-# Service #
-||s.42l.fr^
-
-# Service #
-||ths.li^
-
-# Service #
-||tny.im^
-
-# Service #
-||to.tc^
-
-# Service #
-||v.gd^
-
-# Service #
-||w.wiki^
-
-# Service #
-||wild.link^
