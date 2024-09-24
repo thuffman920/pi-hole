@@ -146,6 +146,9 @@
 ||socialbee.com^ # The official site #
 ||sbee.link^ # The shortened domain #
 
+# ThrillShare Service #
+||5il.co^ # The official site #
+
 # Service #
 ||socx.ly^
 ||socxo.com^
@@ -189,6 +192,9 @@
 
 # GoDaddy, Inc. Service #
 ||x.co^ # The shortened domain #
+
+# Yohn Service #
+||colibri.live^
 
 # YouTube URL Shortener Service #
 ||y2u.be^ # The official site and the shortened domain #
