@@ -23,6 +23,9 @@
 # chl.li Service #
 ||chl.li^ # The official site and the shortened domain #
 
+# CLC.LI Service #
+||clc.li^ # The shortened domain #
+
 # ClickMeter Service #
 ||clickmeter.com^ # The official site and the shortened domain #
 
@@ -84,7 +87,7 @@
 ||linktr.ee^ # The official site and the shortened domain #
 
 # Linkvertise Service #
-#  - This company has monetized shortened links. This allows users to earn money whenever other people click on their URL shortened link. #
+#  - This company has monetized shortened links. This allows users to earn money whenever other people click on their URL-shortened link. #
 #  - You will find Linkvertise blocked in "advertisement.txt." See the note for more details. #
 ||adf.ly^ # The shortened domain #
 
@@ -136,14 +139,31 @@
 ||socialbee.com^ # The official site #
 ||sbee.link^ # The shortened domain #
 
+# Socxo Service #
+||socx.ly^ # The shortened domain #
+||socxo.com^ # The official site #
+
+# SURL.LI Service #
+||surl.li^ # The official site and the shortened domain #
+
+# T2M URL Shortener Service #
+||t2mio.com^ # The official site #
+
 # ThrillShare Service #
 ||5il.co^ # The official site #
+
+# TinyCC Service #
+||tiny.cc^ # The shortened domain #
+||tinycc.com^ # The official site #
 
 # TinyURL, LLC Service #
 ||tinyurl.com^ # The official site and the shortened domain #
 
 # Tize Service #
 ||tize.io^ # The official site and the shortened domain #
+
+# T.LY Service #
+||t.ly^ # The official site and the shortened domain #
 
 # X (formally Twitter) Service # 
 ||t.co^ # The shortened domain #
@@ -176,20 +196,8 @@
 ||s.42l.fr^
 
 # Service #
-||socx.ly^
-||socxo.com^
-
-# Service #
-||t.ly^
-
-# Service #
-||t2mio.com^
-
-# Service #
 ||ths.li^
 
-# Service #
-||tiny.cc^
 ||tiny.ie^
 
 # Service #
