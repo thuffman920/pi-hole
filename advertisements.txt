@@ -50,7 +50,6 @@ rr3---sn-5ualdnss.googlevideo.com
 youtube.com/ptracking/
 youtube.com/youtubei/v1/
 youtube.com/api/stats/
-yt3.ggpht.com
 
 # Google Ads
 ||ads.google.com^
