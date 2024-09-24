@@ -1,0 +1,23 @@
+2024-09-23:
+  * Ransomware.txt: 
+     - 
+  * advertisement.txt:
+     - Found that YouTube failed to load with the following error: "You're offline. Check your connection."
+     - We fixed it by changing "youtube.com/youtubei/v1/" to "||youtube.com/youtubei/v1/log_event?" and "play.google.com" to "||play.google.com/log?".
+
+2024-09-20:
+  * Created 'Ransomware.txt' file
+     - Added three known Ransomware attacks: Black Basta, LockBit 3.0, and Ransomhub - a total of 39 domains
+  * 
+
+2023-12-07:
+  * advertisement.txt:
+     - Added 107 domains found from Reddit posts and other Pi-Hole lists.
+  
+2023-12-06:
+  * advertisement.txt:
+     - Added 3 domains found from uBlock Origin that were blocked by other AdGuard and EasyList blocklists.
+    
+2023-12-05:
+  * Created 'advertisement.txt' file
+      - Added 51 domains found from uBlock Origin that were blocked by other AdGuard and EasyList blocklists.
