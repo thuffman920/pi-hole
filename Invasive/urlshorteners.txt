@@ -121,8 +121,9 @@
 # Service #
 ||pixelme.me^
 
-# Service #
-||rb.gy^
+# Rebrandly Service #
+||rebrandly.com^ # The official site #
+||rb.gy^ # The shortened domain #
 
 # Service #
 ||recut.in^
