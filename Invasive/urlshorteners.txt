@@ -53,9 +53,6 @@
 ||exitbar.io^ # The official site #
 ||extbr.com^ # The shortened domain #
 
-# Service #
-||fastforward.com^
-
 # GoLinks Service #
 ||golinks.io^ # This is the site. The shortened domain looks like "http://go/XXXXX" - these are hard to block. #
 
