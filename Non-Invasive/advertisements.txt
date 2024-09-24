@@ -191,3 +191,8 @@ pixel.facebook.com
 #  - Linkfire is a marketing company that obtains analytics, which is said to promote content better. #
 #  - According to Apple Music's website, they have partnered with Linkfire (https://artists.apple.com/support/3395-value-linkfire-links), so blocking this domain could break Apple Music. This needs to be tested. #
 ||linkfire.com^
+
+# Linkvertise #
+#  - Linkvertise builds a shortened link. From these links, the company collects analytics, presents Ads, and potentially tracks the users. #
+#  - From the data collected, this information creates revenue for the owner of the shortened link. # 
+||linkvertise.com^
