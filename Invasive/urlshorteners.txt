@@ -1,5 +1,7 @@
 # Linkvertise Service #
-||adf.ly^ # The official site and the shortened domain #
+#  - This company has monetized shortened links. This allows users to earn money whenever other people click on their URL shortened link. #
+#  - You will find Linkvertise blocked in "advertisement.txt." See the note for more details. #
+||adf.ly^ # The shortened domain #
 
 # AI6 NET Service #
 ||ai6.net^ # The official site and the shortened domain #
@@ -101,8 +103,10 @@
 # McAfee Corporation Service #
 ||mcaf.ee^ # The shortened domain #
 
-# Service #
-||musicjet.com^
+# MusicJet Service #
+#  - This company uses "Smart Links" to advertise / market music, podcasts, and audio content. #
+#  - You will find MusicJet blocked in "advertisement.txt." See the note for more details. #
+||musicjet.com^ # The official site and the shortened domain #
 
 # Service #
 ||ouo.io^
