@@ -133,9 +133,6 @@
 # Service #
 ||s.42l.fr^
 
-# Service #
-||sbee.link^
-
 # Short.io Service #
 ||short.io^ # The official site and the shortened domain #
 
