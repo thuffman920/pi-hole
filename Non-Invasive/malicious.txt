@@ -267,3 +267,5 @@
 ||exkcellent.com^
 ||uiremukent.com^
 ||ketobepar.com^
+
+||edveha.com^ # This site is known for silently installing a "FakeUpdates"-type malware #
