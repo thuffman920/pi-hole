@@ -1,0 +1,5 @@
+!#include https://raw.githubusercontent.com/thuffman920/pi-hole/refs/heads/main/Non-Invasive/advertisements.txt
+!#include https://raw.githubusercontent.com/thuffman920/pi-hole/refs/heads/main/Non-Invasive/adware_spyware.txt
+!#include https://raw.githubusercontent.com/thuffman920/pi-hole/refs/heads/main/Non-Invasive/malicious.txt
+!#include https://raw.githubusercontent.com/thuffman920/pi-hole/refs/heads/main/Non-Invasive/Ransomware.txt
+!#include https://raw.githubusercontent.com/thuffman920/pi-hole/refs/heads/main/Non-Invasive/typosquatting.txt
