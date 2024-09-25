@@ -87,6 +87,9 @@
 # Education.com Typosquatting Domain #
 ||educaiton.com^
 
+# Edvera (or Ed Vedha Private Limited) Typosquatting Domain #
+||edveha.com^ # This site is known for silently installing a "FakeUpdates"-type malware #
+
 # Ellevation Typosquatting Domain #
 ||ellevationseducation.com^
 
