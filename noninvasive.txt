@@ -3,3 +3,4 @@
 !#include Non-Invasive/malicious.txt
 !#include Non-Invasive/Ransomware.txt
 !#include Non-Invasive/typosquatting.txt
+!#include Non-Invasive/command_control.txt
