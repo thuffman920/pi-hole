@@ -307,10 +307,10 @@ pixel.facebook.com
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.ne^
 ||telemetry.insights.video.a2z.co^
 ||track.prod-eu.turntable.sonic.advertising.amazon.de^
-||unagi-eu.amazon.^
-||unagi-fe.amazon.^
-||unagi-na.amazon.^
-||unagi.amazon.^
+||unagi-eu.amazon^
+||unagi-fe.amazon^
+||unagi-na.amazon^
+||unagi.amazon^
 ||video-ads.a2z.co^
 /batch/1/oe/
 ||amazon.com/1/events/
