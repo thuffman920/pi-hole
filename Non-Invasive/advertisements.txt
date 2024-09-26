@@ -52,11 +52,11 @@ youtube.com/ptracking/
 # youtube.com/api/stats/ - Causes the videos to not show as watched #
 # ||yt3.ggpht.com^ - This may cause the channel icons to go missing #
 /generate_204?
-||youtube.com/pcs/activeview? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
-||youtube.com/api/stats/qoe? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
-||youtube.com/api/stats/atr? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
-||youtube.com/ptracking? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
-||youtube.com/pagead/ # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
+||youtube.com/pcs/activeview? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
+||youtube.com/api/stats/qoe? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
+||youtube.com/api/stats/atr? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
+||youtube.com/ptracking? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
+||youtube.com/pagead/ # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
 
 # Google Ads
 ||ads.google.com^
@@ -177,6 +177,10 @@ e2c51.gcp.gvt2.com
 # Google web Analytics - gvt3.com #
 beacons5.gvt3.com
 beacons6.gvt3.com
+
+# GitHub #
+||collector.github.com # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists  #
+||github.com/_private/browser/stats # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
 
 # Cloudfront
 
