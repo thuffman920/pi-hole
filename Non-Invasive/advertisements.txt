@@ -52,11 +52,11 @@ youtube.com/ptracking/
 # youtube.com/api/stats/ - This records video progression. This collects where you are in the video, where you replayed, and the like, so block this at your own risk. #
 # ||yt3.ggpht.com^ - This domain loads the channel icons. This shouldn't be blocked. #
 /generate_204?
-||youtube.com/pcs/activeview? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
-||youtube.com/api/stats/qoe? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
-||youtube.com/api/stats/atr? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
-||youtube.com/ptracking? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
-||youtube.com/pagead/ # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
+||youtube.com/pcs/activeview?
+||youtube.com/api/stats/qoe?
+||youtube.com/api/stats/atr?
+||youtube.com/ptracking?
+||youtube.com/pagead/
 
 # Google Ads
 ||ads.google.com^
