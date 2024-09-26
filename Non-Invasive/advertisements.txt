@@ -312,3 +312,9 @@ pixel.facebook.com
 ||unagi-na.amazon.^
 ||unagi.amazon.^
 ||video-ads.a2z.co^
+/batch/1/oe/
+||amazon.com/1/events/
+/uedata?
+||amazon.com/empty.gif?
+/insights/reportEvent/
+||amazon.com/cdp/usage/Clickstream
