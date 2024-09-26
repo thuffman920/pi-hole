@@ -50,7 +50,13 @@ rr3---sn-5ualdnss.googlevideo.com
 youtube.com/ptracking/
 ||youtube.com/youtubei/v1/log_event?
 # youtube.com/api/stats/ - Causes the videos to not show as watched #
-||yt3.ggpht.com^
+# ||yt3.ggpht.com^ - This may cause the channel icons to go missing #
+/generate_204?
+||youtube.com/pcs/activeview? # Pick these up from the AdGuard list #
+||youtube.com/api/stats/qoe? # Pick these up from the AdGuard list #
+||youtube.com/api/stats/atr? # Pick these up from the AdGuard list #
+||youtube.com/ptracking? # Pick these up from the AdGuard list #
+||youtube.com/pagead/ # Pick these up from the AdGuard list #
 
 # Google Ads
 ||ads.google.com^
