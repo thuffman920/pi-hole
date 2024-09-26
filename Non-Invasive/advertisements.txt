@@ -49,7 +49,7 @@ rr3---sn-5ualdns7.googlevideo.com
 rr3---sn-5ualdnss.googlevideo.com
 youtube.com/ptracking/
 ||youtube.com/youtubei/v1/log_event?
-youtube.com/api/stats/
+# youtube.com/api/stats/ - Causes the videos to not show as watched #
 ||yt3.ggpht.com^
 
 # Google Ads
