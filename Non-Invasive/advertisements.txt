@@ -318,3 +318,4 @@ pixel.facebook.com
 ||amazon.com/empty.gif?
 /insights/reportEvent/
 ||amazon.com/cdp/usage/Clickstream
+/remote-weblab-triggers/
