@@ -49,8 +49,8 @@ rr3---sn-5ualdns7.googlevideo.com
 rr3---sn-5ualdnss.googlevideo.com
 youtube.com/ptracking/
 ||youtube.com/youtubei/v1/log_event?
-# youtube.com/api/stats/ - Causes the videos to not show as watched #
-# ||yt3.ggpht.com^ - This may cause the channel icons to go missing #
+# youtube.com/api/stats/ - This records video progression. This collects where you are in the video, where you replayed, and the like, so block this at your own risk. #
+# ||yt3.ggpht.com^ - This domain loads the channel icons. This shouldn't be blocked. #
 /generate_204?
 ||youtube.com/pcs/activeview? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
 ||youtube.com/api/stats/qoe? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" lists #
