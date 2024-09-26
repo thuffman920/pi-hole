@@ -232,11 +232,12 @@ pixel.facebook.com
 ||device-metrics-us-ud.amazon.com^
 ||device-metrics-us.amazon.com^
 ||events.app-performance.music.amazon.dev^
-||fls-cn.amazon^
-||fls-eu.amazon^
+||fls-cn.amazon.*
+||fls-eu.amazon.*
 ||fls-fe-opf.amazon.com^
-||fls-fe.amazon^
-||fls-na.amazon^
+||fls-fe.amazon.*
+||fls-na.amazon.*
+@@||fls-na.amazon.*/1/batch/1/op/$image,from=amazon.*
 ||forester.a2z.com^
 ||identity.browserapps.amazon.de^
 ||kinesis.ap-northeast-1.amazonaws.com^
