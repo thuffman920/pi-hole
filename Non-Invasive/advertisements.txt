@@ -57,6 +57,7 @@ youtube.com/ptracking/
 ||youtube.com/api/stats/atr?
 ||youtube.com/ptracking?
 ||youtube.com/pagead/
+||doubleclick.net^$xhr,redirect-rule=noop.txt
 
 # Google Ads
 ||ads.google.com^
