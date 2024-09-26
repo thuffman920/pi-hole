@@ -52,11 +52,11 @@ youtube.com/ptracking/
 # youtube.com/api/stats/ - Causes the videos to not show as watched #
 # ||yt3.ggpht.com^ - This may cause the channel icons to go missing #
 /generate_204?
-||youtube.com/pcs/activeview? # Pick these up from the AdGuard list #
-||youtube.com/api/stats/qoe? # Pick these up from the AdGuard list #
-||youtube.com/api/stats/atr? # Pick these up from the AdGuard list #
-||youtube.com/ptracking? # Pick these up from the AdGuard list #
-||youtube.com/pagead/ # Pick these up from the AdGuard list #
+||youtube.com/pcs/activeview? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
+||youtube.com/api/stats/qoe? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
+||youtube.com/api/stats/atr? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
+||youtube.com/ptracking? # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
+||youtube.com/pagead/ # Pick these up from the "AdGuard Tracking Protection" and "EasyPrivacy" list #
 
 # Google Ads
 ||ads.google.com^
