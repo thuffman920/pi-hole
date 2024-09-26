@@ -31,15 +31,15 @@
   
 2023-12-06:
   * advertisement.txt:
-     - Added three domains found from uBlock Origin that were blocked by other AdGuard and EasyList blocklists.
+     - Added three domains.
     
 2023-12-05:
   * Created 'advertisement.txt' file
-      - Added 51 domains found from uBlock Origin that were blocked by other AdGuard and EasyList blocklists.
+      - Added 51 domains.
   * typosquatting.txt:
       - Added three typosquatting domains impersonating a known educational website, namely NCEdCloud
   * Created 'malicious.txt' file:
-      - Six domains found in uBlock Origin and other blocklists were added.
+      - Added six domains.
 
 2023-12-04:
   * Created 'typosquatting.txt' file
