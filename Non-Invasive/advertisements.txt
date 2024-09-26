@@ -58,6 +58,8 @@ youtube.com/ptracking/
 ||youtube.com/ptracking?
 ||youtube.com/pagead/
 ||doubleclick.net^$xhr,redirect-rule=noop.txt
+www.youtube.com##+js(json-prune-fetch-response, reelWatchSequenceResponse.entries.[-].command.reelWatchEndpoint.adClientParams.isAd entries.[-].command.reelWatchEndpoint.adClientParams.isAd, , propsToMatch, url:/reel_watch_sequence?)
+
 
 # Google Ads
 ||ads.google.com^
