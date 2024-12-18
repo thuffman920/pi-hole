@@ -57,6 +57,9 @@
 # GoLinks Service #
 ||golinks.io^ # This is the site. The shortened domain looks like "http://go/XXXXX" - these are hard to block. #
 
+# GovDelivery Service #
+||lnks.gd^ # The shortened domain #
+
 # Hurlurl Service #
 ||hurlurl.com^ # The official site and the shortened domain #
 
